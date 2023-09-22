@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arac.Satis.API", "Arac.Satis.API\Arac.Satis.API.csproj", "{FF39C7A8-920D-4C6B-828E-945F3F287194}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arac.Satis.Data", "Arac.Satis.Data\Arac.Satis.Data.csproj", "{73EBE942-42D0-437F-BB7B-B0B2DA60022C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arac.Satis.Entities", "Arac.Satis.Entities\Arac.Satis.Entities.csproj", "{C03733A9-906E-4604-BD50-3062C1E0878D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arac.Satis.Model", "Arac.Satis.Model\Arac.Satis.Model.csproj", "{B818B03F-1E70-477B-9B73-40CBF369ADF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arac.Satis.Service", "Arac.Satis.Service\Arac.Satis.Service.csproj", "{1154EDB8-2865-4D6A-8037-DBA4C380738E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arac.Satis.Shared", "Arac.Satis.Shared\Arac.Satis.Shared.csproj", "{997D27DC-EAE0-40E5-B72B-024FD3E1F13B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB06F9A4-A9B0-4CE6-967C-501F88FE7A04}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF39C7A8-920D-4C6B-828E-945F3F287194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF39C7A8-920D-4C6B-828E-945F3F287194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF39C7A8-920D-4C6B-828E-945F3F287194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF39C7A8-920D-4C6B-828E-945F3F287194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EBE942-42D0-437F-BB7B-B0B2DA60022C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EBE942-42D0-437F-BB7B-B0B2DA60022C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EBE942-42D0-437F-BB7B-B0B2DA60022C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EBE942-42D0-437F-BB7B-B0B2DA60022C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03733A9-906E-4604-BD50-3062C1E0878D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03733A9-906E-4604-BD50-3062C1E0878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03733A9-906E-4604-BD50-3062C1E0878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03733A9-906E-4604-BD50-3062C1E0878D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B818B03F-1E70-477B-9B73-40CBF369ADF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B818B03F-1E70-477B-9B73-40CBF369ADF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B818B03F-1E70-477B-9B73-40CBF369ADF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B818B03F-1E70-477B-9B73-40CBF369ADF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1154EDB8-2865-4D6A-8037-DBA4C380738E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1154EDB8-2865-4D6A-8037-DBA4C380738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1154EDB8-2865-4D6A-8037-DBA4C380738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1154EDB8-2865-4D6A-8037-DBA4C380738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997D27DC-EAE0-40E5-B72B-024FD3E1F13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D27DC-EAE0-40E5-B72B-024FD3E1F13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D27DC-EAE0-40E5-B72B-024FD3E1F13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D27DC-EAE0-40E5-B72B-024FD3E1F13B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D857495-69DB-48CE-949F-1CD6CAC76CC8}
+	EndGlobalSection
+EndGlobal
